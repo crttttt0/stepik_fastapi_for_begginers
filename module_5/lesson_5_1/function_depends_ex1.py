@@ -1,6 +1,5 @@
 from fastapi import FastAPI, Depends, Query, status
 
-
 app = FastAPI(title=" FastAPI Dependency Injection (DI)")
 
 
